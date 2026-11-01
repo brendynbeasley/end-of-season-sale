@@ -1,0 +1,7 @@
+spec,term,slope,se,ci_low,ci_high,p,n,kinds
+"all kinds, next-year margin, year effects",overhang,-0.069547,0.028174,-0.124767,-0.014327,0.013569,489,18
+"all kinds, same-year margin, year effects",overhang,0.091354,0.018842,0.054425,0.128284,0.000001,489,18
+"all kinds, next-year, excluding pandemic years",overhang,-0.080163,0.032406,-0.143677,-0.016649,0.013371,446,18
+"season trades only, next-year, year effects",overhang,-0.061392,0.050161,-0.159706,0.036922,0.220994,158,6
+"other trades only, next-year, year effects",overhang,-0.078897,0.034614,-0.146739,-0.011056,0.022645,331,12
+"all kinds, next-year, season interaction",overhang:season,0.010597,0.056066,-0.099289,0.120484,0.850080,489,18

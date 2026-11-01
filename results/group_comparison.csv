@@ -1,0 +1,9 @@
+comparison,value,n,p,se,ci_low,ci_high
+"mean amplitude, season goods (%)",7.684882,14.000000,,,,
+"mean amplitude, staples (%)",0.507336,4.000000,,,,
+"mean amplitude, other goods (%)",1.994553,7.000000,,,,
+smallest season-good amplitude (%),1.409861,14.000000,,,,
+largest staple amplitude (%),0.887524,4.000000,,,,
+Mann-Whitney U (season > staple),56.000000,,0.000327,,,
+Welch t (season - staple),4.924785,,0.000265,,,
+item-year regression: season dummy (pct points),7.697586,468.000000,0.000000,1.460759,4.834550,10.560621

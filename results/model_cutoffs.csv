@@ -1,0 +1,7 @@
+arrivals_per_season,cutoff_before_deadline,cutoff_at_deadline,share_of_entrants_who_clear_cutoff,expected_qualifying_arrivals
+1,0.6790,0.5000,0.3210,0.3210
+2,0.7382,0.5000,0.2618,0.5236
+5,0.8109,0.5000,0.1891,0.9457
+10,0.8567,0.5000,0.1433,1.4327
+20,0.8936,0.5000,0.1064,2.1282
+50,0.9297,0.5000,0.0703,3.5159

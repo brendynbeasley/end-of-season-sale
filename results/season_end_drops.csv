@@ -1,0 +1,26 @@
+item,name,group,fall_oct_to_jan_pct,spring_mar_to_jul_pct,oct_200_in_january
+SEAG02,Jewelry,other,-0.2176,1.2382,199.5648
+SEAG01,Watches,other,-0.6783,0.3884,198.6434
+SEHL,Other household equipment and furnishings,other,-0.0276,-0.7637,199.9448
+SERE01,Toys,other,0.1675,-0.7346,200.3350
+SETA01,New vehicles,other,0.7689,-0.4763,201.5379
+SEHJ,Furniture and bedding,other,-0.1056,-0.1305,199.7887
+SERC,Sporting goods,other,-0.0313,0.2432,199.9373
+SEAC01,Women's outerwear,season,-12.5827,-10.8011,174.8346
+SEAC02,Women's dresses,season,-15.7740,-13.6721,168.4520
+SEAC03,Women's suits and separates,season,-9.5235,-9.6847,180.9530
+SEAD,Girls' apparel,season,-6.5546,-8.4265,186.8907
+SEAA03,Men's shirts and sweaters,season,-6.2893,-5.7565,187.4214
+SEAA04,Men's pants and shorts,season,0.7771,-2.1480,201.5542
+SEAA01,"Men's suits, sport coats, and outerwear",season,-4.8750,-3.3496,190.2499
+SEAB,Boys' apparel,season,-3.3864,-3.9161,193.2273
+SEAE03,Women's footwear,season,-4.8565,-3.6145,190.2870
+SEAC04,"Women's underwear, nightwear, swimwear and accessories",season,-1.5817,-2.6106,196.8365
+SEAA02,"Men's underwear, nightwear, swimwear and accessories",season,-1.5963,-1.4524,196.8074
+SEAF,Infants' and toddlers' apparel,season,-3.0776,-2.9209,193.8448
+SEAE02,Boys' and girls' footwear,season,-3.0212,-2.2889,193.9576
+SEAE01,Men's footwear,season,-0.9036,-0.7592,198.1928
+SEGA,Tobacco and smoking products,staple,-0.0809,0.7310,199.8382
+SEGB,Personal care products,staple,-0.1572,-0.1829,199.6857
+SEHN02,Household paper products,staple,0.0794,0.4020,200.1588
+SEHN01,Household cleaning products,staple,0.2430,-0.1921,200.4860

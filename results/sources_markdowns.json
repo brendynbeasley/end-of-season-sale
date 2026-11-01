@@ -1,0 +1,34 @@
+{
+ "bls_items": {
+  "SEAA01": "Men's suits, sport coats, and outerwear",
+  "SEAA03": "Men's shirts and sweaters",
+  "SEAA04": "Men's pants and shorts",
+  "SEAA02": "Men's underwear, nightwear, swimwear and accessories",
+  "SEAB": "Boys' apparel",
+  "SEAC01": "Women's outerwear",
+  "SEAC02": "Women's dresses",
+  "SEAC03": "Women's suits and separates",
+  "SEAC04": "Women's underwear, nightwear, swimwear and accessories",
+  "SEAD": "Girls' apparel",
+  "SEAF": "Infants' and toddlers' apparel",
+  "SEAE01": "Men's footwear",
+  "SEAE02": "Boys' and girls' footwear",
+  "SEAE03": "Women's footwear",
+  "SEHN01": "Household cleaning products",
+  "SEHN02": "Household paper products",
+  "SEGB": "Personal care products",
+  "SEGA": "Tobacco and smoking products",
+  "SETA01": "New vehicles",
+  "SERE01": "Toys",
+  "SERC": "Sporting goods",
+  "SEHJ": "Furniture and bedding",
+  "SEHL": "Other household equipment and furnishings",
+  "SEAG01": "Watches",
+  "SEAG02": "Jewelry"
+ },
+ "fred": {
+  "CPIAPPNS": "CPI-U apparel, not seasonally adjusted (1982-84=100)",
+  "MRTSIM448USN": "Clothing and accessories stores, end-of-month inventories, NSA ($ millions)",
+  "MRTSSM448USN": "Clothing and accessories stores, monthly sales, NSA ($ millions)"
+ }
+}

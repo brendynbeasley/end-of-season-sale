@@ -1,0 +1,10 @@
+sample,measure,slope,se,ci_low,ci_high,p,n,r2
+all periods,overhang,-0.015951,0.015786,-0.046891,0.014989,0.312273,66,0.012699
+"all periods, prior inflation control",overhang,-0.005825,0.015995,-0.037175,0.025525,0.715733,66,0.101519
+excluding 2020-21,overhang,0.018339,0.054127,-0.087748,0.124426,0.734751,63,0.002953
+"excluding 2020-21, prior inflation control",overhang,0.005510,0.032594,-0.058374,0.069394,0.865755,63,0.253576
+"fall only, excluding 2020-21",overhang,-0.024652,0.075794,-0.173206,0.123901,0.744989,31,0.005604
+"spring only, excluding 2020-21",overhang,0.056631,0.058393,-0.057817,0.171080,0.332133,32,0.025810
+"secondary: ratio deviation, excluding 2020-21",ratio_dev,-0.054377,0.010697,-0.075343,-0.033411,0.000000,57,0.148885
+"secondary: ratio deviation, excl. 2020-21, inflation control",ratio_dev,-0.027527,0.013095,-0.053193,-0.001861,0.035549,57,0.321680
+"secondary: ratio deviation, all periods, inflation control",ratio_dev,-0.000482,0.008477,-0.017097,0.016133,0.954667,60,0.113778
